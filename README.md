@@ -1,2 +1,2 @@
-averymills.github.com
+averymills.github.io
 =====================
